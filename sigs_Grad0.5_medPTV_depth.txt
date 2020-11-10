@@ -1,0 +1,40 @@
+./Grad0.5_Depth1_1000_medPTV_Eval.txt
+Sum 1.88534101743
+./Grad0.5_Depth1_200_medPTV_Eval.txt
+Sum 1.88290459077
+./Grad0.5_Depth1_400_medPTV_Eval.txt
+Sum 1.88519799986
+./Grad0.5_Depth1_600_medPTV_Eval.txt
+Sum 1.88528054102
+./Grad0.5_Depth1_800_medPTV_Eval.txt
+Sum 1.88554980941
+./Grad0.5_Depth2_1000_medPTV_Eval.txt
+Sum 2.42826492644
+./Grad0.5_Depth2_200_medPTV_Eval.txt
+Sum 2.36967471491
+./Grad0.5_Depth2_400_medPTV_Eval.txt
+Sum 2.40222159715
+./Grad0.5_Depth2_600_medPTV_Eval.txt
+Sum 2.41555749275
+./Grad0.5_Depth2_800_medPTV_Eval.txt
+Sum 2.42238749908
+./Grad0.5_Depth3_1000_medPTV_Eval.txt
+Sum 2.47221608004
+./Grad0.5_Depth3_200_medPTV_Eval.txt
+Sum 2.42355320835
+./Grad0.5_Depth3_400_medPTV_Eval.txt
+Sum 2.44939289174
+./Grad0.5_Depth3_600_medPTV_Eval.txt
+Sum 2.46210105568
+./Grad0.5_Depth3_800_medPTV_Eval.txt
+Sum 2.46837367301
+./Grad0.5_Depth4_1000_medPTV_Eval.txt
+Sum 2.4761160599
+./Grad0.5_Depth4_200_medPTV_Eval.txt
+Sum 2.43654797059
+./Grad0.5_Depth4_400_medPTV_Eval.txt
+Sum 2.45720726869
+./Grad0.5_Depth4_600_medPTV_Eval.txt
+Sum 2.46954670353
+./Grad0.5_Depth4_800_medPTV_Eval.txt
+Sum 2.47589260777
